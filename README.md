@@ -4,3 +4,6 @@
 效果图：
 
 ![涂鸦画板](http://img.blog.csdn.net/20160925003654744)
+
+相关博客地址：
+[我的博客](http://blog.csdn.net/cehae/article/details/52652851)
